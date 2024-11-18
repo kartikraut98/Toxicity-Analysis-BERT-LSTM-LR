@@ -46,3 +46,5 @@ This repository implements a multilabel sentiment classification workflow using 
 Install dependencies:
 ```bash
 pip install torch torchvision scikit-learn datasets tqdm
+
+python sentiment_classifier.py --ngram 3 --max_features 10000 --epochs 100 --lr 0.01 --batch_size 64 --save_path ./sentiment_model.pkl --test_rows 1000
