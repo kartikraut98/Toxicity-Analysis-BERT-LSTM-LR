@@ -66,10 +66,4 @@ Ensure you have Python 3.x installed on your system. You can download it from [p
 - Ensure all scripts (e.g., `prepare_dataset.py`, `train.py`, `test.py`) are present in the repository directory.
 - Check the output logs for any errors and address them as needed.
 
-### Contributing
 
-If you wish to contribute to this project, feel free to submit a pull request or open an issue.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE).
